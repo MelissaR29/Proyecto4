@@ -10,5 +10,5 @@ En la siguiente sección donde se analiza la estacionaridad y ergodicidad, podem
 
 ![3](https://user-images.githubusercontent.com/73140267/125611582-d9fe9451-a602-4243-a6b5-eba7784c4013.PNG)
 
-Para la sección 3 antes de dañarse los resultados se obtuvo que la densidad espectral fue alrededos de 5000 en el eje x.
+Para la sección 3 antes de dañarse el resultado obtenido fue que la mayor densidad espectral es alrededor de 5000 en el eje x.
 
